@@ -38,7 +38,7 @@ I'm studying IT with a focus on cybersecurity and application development. I'm i
 
 | Area | Familiar with |
 |------|----------------|
-| **Languages** | *Kotlin, Java, Python, JavaScript, SQL, C#* |
+| **Languages** | *Kotlin, Java, Python, JavaScript, SQL, C#, Bash, Powershell* |
 | **Mobile / Web** | *Android, HTML/CSS, React* |
 | **Security / IT** | *Linux CLI, Wireshark, scripting for automation* |
 | **Tools** | *Git, Android Studio, VS Code/Cursor* |
