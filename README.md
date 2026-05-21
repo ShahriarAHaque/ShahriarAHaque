@@ -54,5 +54,5 @@ I'm studying IT with a focus on cybersecurity and application development. I'm i
 <!-- Add only what you're comfortable sharing publicly -->
 
 - GitHub: [@ShahriarAHaque](https://github.com/ShahriarAHaque)
-- LinkedIn: *(optional)*
+- LinkedIn: 
 - Email: shaque7cc@gmail.com
