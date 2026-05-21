@@ -12,7 +12,7 @@ Cybersecurity (Major) · App Development (Minor)
 
 <!-- Replace this block with your own voice — 2–4 sentences is enough -->
 
-I'm studying IT with a focus on cybersecurity and application development. I'm interested in building practical software, learning secure-by-design habits, and documenting projects as I go.
+I'm studying IT with a focus on cybersecurity and application development. I'm interested in building practical software, learning security engineering, and creating projects as I go.
 
 <!-- Optional one-liner under your name -->
 <!-- e.g. "Building Android apps · exploring on-device AI · learning offensive security fundamentals" -->
