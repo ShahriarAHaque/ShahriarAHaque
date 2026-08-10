@@ -24,10 +24,10 @@ I'm studying IT with a focus on cybersecurity and application development. I'm i
 <!-- Add, remove, or reorder bullets. Link repos when you have them. -->
 
 - 🎓 **University** — Cybersecurity & app dev coursework and assessments
-- 🛠️ **Personal projects** — *
-1. Android LLM + Live2D chat app 
-2. NowHeart Fitness and Health Scheduler made to be deleted 
-3. Global AdBlocker Plugin + Data Poisoner*
+- 🛠️ **Personal projects** — 
+1. *Android LLM + Live2D chat app* 
+2. *NowHeart Fitness and Health Scheduler made to be deleted*
+3. *Global AdBlocker Plugin + Data Poisoner*
 - 📚 **Learning** — *Kotlin/Android, NextJS & TypeScript*
 
 <!-- Uncomment when you want a "currently learning" line -->
