@@ -1,4 +1,4 @@
-<h1 align="center">LilaNaCL Security</h1>
+<h1 align="center"> Shahriar/LilaNaCL </h1>
 
 <p align="center">
   <sub>student &nbsp;·&nbsp; information technology &nbsp;·&nbsp; western australia</sub><br>
