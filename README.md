@@ -21,7 +21,7 @@
 
 ## ▌ about
 
-I'm doing an IT degree in Western Australia, cybersecurity as the major and app development as the minor. Most of what I build sits between those two, android apps that I actually use myself, and small security tooling I write while I'm working out how the underlying thing works however, none of it is production software, it's coursework and personal projects and I'll say so where it matters.
+I'm doing an IT degree in Western Australia, cybersecurity as the major and app development as the minor. Most of what I build sits between those two, android apps that I actually use myself, and small security tooling I write while I'm working out how the underlying thing works however, none of it is production software, it's coursework and personal projects currently
 
 ---
 
