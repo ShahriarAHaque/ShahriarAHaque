@@ -1,4 +1,4 @@
-<h1 align="center">LilaNaCL aka Shah H</h1>
+<h1 align="center">LilaNaCL</h1>
 
 <p align="center">
   <sub>student &nbsp;·&nbsp; information technology &nbsp;·&nbsp; western australia</sub><br>
