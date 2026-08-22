@@ -31,6 +31,7 @@ I'm doing an IT degree in Western Australia, cybersecurity as the major and app 
 
 | project | what it is |
 |---|---|
+| [`lazycatter`](https://github.com/ShahriarAHaque/LazyCatter) | local windows app, drives your own discord bot to reshape a server from a plan.yaml |
 | `live2d-chat` | android chat app, an LLM behind it and a Live2D model on the front |
 | `nowheart` | fitness and health scheduler, made to be deleted |
 | `adblock-poisoner` | browser plugin, global ad blocking and a data poisoner |
