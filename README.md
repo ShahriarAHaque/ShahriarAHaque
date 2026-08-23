@@ -33,7 +33,7 @@ I'm doing an IT degree in Western Australia, cybersecurity as the major and app 
 |---|---|
 | [`lazycatter`](https://github.com/ShahriarAHaque/LazyCatter) | local windows app, drives your own discord bot to reshape a server from a plan.yaml |
 | `live2d-chat` | android chat app, an LLM behind it and a Live2D model on the front |
-| `nowheart` | fitness and health scheduler, made to be deleted |
+| [`nekokata`](https://github.com/ShahriarAHaque/nekokata) | a health sheduler you're meant to outgrow |
 | `clutter` | browser plugin, global ad blocking and a data poisoner |
 | `nekobot` | local AI cat companion that talks to Ollama on your PC and falls back to on-device Gemma 3 1B |
 
