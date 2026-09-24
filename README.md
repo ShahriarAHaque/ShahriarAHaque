@@ -69,7 +69,7 @@ Right now I'm learning Kotlin and Android properly, and NextJS and TypeScript on
 <table>
 <tr><td><b>github</b></td><td><a href="https://github.com/ShahriarAHaque">@ShahriarAHaque</a></td></tr>
 <tr><td><b>email</b></td><td><a href="mailto:shaque7cc@gmail.com">shaque7cc@gmail.com</a></td></tr>
-<tr><td><b>linkedin</b></td><td><i>not up yet</i></td></tr>
+<tr><td><b>linkedin</b></td><td><a href="https://www.linkedin.com/in/shaque7cc/">@shaque7cc</a></td></tr>
 </table>
 
 <p align="center"><sub>perth, western australia &nbsp;·&nbsp; awst (utc+8)</sub></p>
